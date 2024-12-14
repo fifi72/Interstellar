@@ -160,6 +160,6 @@ img {
 
 @media (orientation: portrait) {
    img {
-      height: 40px;
+      height: 1px;
    }
 }
